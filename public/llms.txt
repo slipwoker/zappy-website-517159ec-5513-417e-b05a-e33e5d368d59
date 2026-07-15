@@ -7,73 +7,73 @@
 ## Pages
 
 ### الرئيسية
-https://-517159ec.zappy5.app
+https://example.com
 اكتشفي تشكيلة ساحرة من العبايات العصرية للمرأة المسلمة. تسوقي الآن واستمتعي بتجربة شراء عباية أونلاين فريدة مع لمسة عبايه، حيث يلتقي الأناقة بالاحتشام.
 
 ### من نحن
-https://-517159ec.zappy5.app/about
+https://example.com/about
 تعرفي على قصة لمسة عبايه، منصتك الأولى لاقتناء العبايات العصرية المختارة بعناية. نعيد تعريف شراء عباية أونلاين بخدمة شخصية تناسب ذوقك الرفيع، انضمي إلينا.
 
 ### ضمان الدروبشيبينغ
-https://-517159ec.zappy5.app/dropshipping-promise
+https://example.com/dropshipping-promise
 مع ضمان الدروبشيبينغ من لمسة عبايه، اشعري بالثقة وأنت تشترين عبايتك العصرية. نضمن لك توصيلاً سلساً وجودة مضمونة لتجربة شراء عباية أونلاين لا تقلقين بعدها أبداً.
 
 ### الأسئلة الشائعة
-https://-517159ec.zappy5.app/faq
+https://example.com/faq
 أجوبة سريعة وواضحة لأسئلتك حول طلب عبايتك الإسلامية العصرية. من الشحن إلى المقاسات، نسهل عليك رحلة شراء عباية أونلاين مع لمسة عبايه، ابدئي الآن.
 
 ### اتصل بنا
-https://-517159ec.zappy5.app/contact
+https://example.com/contact
 هل لديك سؤال عن عبايتك الإسلامية القادمة؟ نحن هنا لنخدمك. اتصلوا بفريق لمسة عبايه اليوم ودعونا نجعل تجربة شراء عباية أونلاين الخاصة بك استثنائية بكل تفاصيلها.
 
 ### Products
-https://-517159ec.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - لمسة عبايه
 
 ### Cart
-https://-517159ec.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-517159ec.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-517159ec.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-517159ec.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-517159ec.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-517159ec.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - لمسة عبايه
 
 ### Category
-https://-517159ec.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - لمسة عبايه
 
 ### شكراً لك
-https://-517159ec.zappy5.app/thank-you
+https://example.com/thank-you
 لمسة عبايه - شكراً لك
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-517159ec.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-517159ec.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-517159ec.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce / Islamic Fashion
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-517159ec.zappy5.app/sitemap.xml
-- Robots: https://-517159ec.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-517159ec.zappy5.app/llms-full.txt
-- Products (JSON): https://-517159ec.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-517159ec.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
