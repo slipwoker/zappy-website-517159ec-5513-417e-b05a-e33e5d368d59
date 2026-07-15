@@ -1,0 +1,109 @@
+# لمسة عبايه — Generative Engine Optimization Map
+
+> An e-commerce website dedicated to selling Islamic abayas through a dropshipping business model. The brand focuses on modest Islamic fashion, catering to Muslim women who seek stylish and traditional abayas without the seller needing to hold physical inventory. The store aims to provide a seamless online shopping experience with a curated collection of abayas sourced and shipped directly from suppliers.
+
+---
+
+## Pages
+
+### الرئيسية
+https://-517159ec.zappy5.app
+اكتشفي تشكيلة ساحرة من العبايات العصرية للمرأة المسلمة. تسوقي الآن واستمتعي بتجربة شراء عباية أونلاين فريدة مع لمسة عبايه، حيث يلتقي الأناقة بالاحتشام.
+
+### من نحن
+https://-517159ec.zappy5.app/about
+تعرفي على قصة لمسة عبايه، منصتك الأولى لاقتناء العبايات العصرية المختارة بعناية. نعيد تعريف شراء عباية أونلاين بخدمة شخصية تناسب ذوقك الرفيع، انضمي إلينا.
+
+### ضمان الدروبشيبينغ
+https://-517159ec.zappy5.app/dropshipping-promise
+مع ضمان الدروبشيبينغ من لمسة عبايه، اشعري بالثقة وأنت تشترين عبايتك العصرية. نضمن لك توصيلاً سلساً وجودة مضمونة لتجربة شراء عباية أونلاين لا تقلقين بعدها أبداً.
+
+### الأسئلة الشائعة
+https://-517159ec.zappy5.app/faq
+أجوبة سريعة وواضحة لأسئلتك حول طلب عبايتك الإسلامية العصرية. من الشحن إلى المقاسات، نسهل عليك رحلة شراء عباية أونلاين مع لمسة عبايه، ابدئي الآن.
+
+### اتصل بنا
+https://-517159ec.zappy5.app/contact
+هل لديك سؤال عن عبايتك الإسلامية القادمة؟ نحن هنا لنخدمك. اتصلوا بفريق لمسة عبايه اليوم ودعونا نجعل تجربة شراء عباية أونلاين الخاصة بك استثنائية بكل تفاصيلها.
+
+### Products
+https://-517159ec.zappy5.app/products
+המוצרים שלנו - لمسة عبايه
+
+### Cart
+https://-517159ec.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-517159ec.zappy5.app/checkout
+תשלום
+
+### Login
+https://-517159ec.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-517159ec.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-517159ec.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-517159ec.zappy5.app/product/:slug
+פרטי המוצר - لمسة عبايه
+
+### Category
+https://-517159ec.zappy5.app/category/:slug
+מוצרים - لمسة عبايه
+
+### شكراً لك
+https://-517159ec.zappy5.app/thank-you
+لمسة عبايه - شكراً لك
+
+## Legal & Policy
+
+### Privacy Policy
+https://-517159ec.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-517159ec.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-517159ec.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About لمسة عبايه
+An e-commerce website dedicated to selling Islamic abayas through a dropshipping business model. The brand focuses on modest Islamic fashion, catering to Muslim women who seek stylish and traditional abayas without the seller needing to hold physical inventory. The store aims to provide a seamless online shopping experience with a curated collection of abayas sourced and shipped directly from suppliers.
+
+## Target Audience
+- Muslim women looking for Islamic abayas
+- Muslim Women Fashion Seekers
+- Young Professional Muslimahs
+- Newly Converted Muslim Women
+
+## Industry
+E-commerce / Islamic Fashion
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-517159ec.zappy5.app/sitemap.xml
+- Robots: https://-517159ec.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-517159ec.zappy5.app/llms-full.txt
+- Products (JSON): https://-517159ec.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-517159ec.zappy5.app/product-feed.xml
